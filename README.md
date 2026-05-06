@@ -52,5 +52,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/nadhiuuu/nadhiuuu/output/snake.svg" alt="Snake animation" />
